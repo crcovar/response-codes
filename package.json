@@ -2,6 +2,14 @@
   "name": "@crcovar/response-codes",
   "version": "1.0.0",
   "description": "Exportable list of HTTP response codes",
+  "homepage": "https://github.com/crcovar/response-codes#readme",
+  "bugs": {
+    "url": "https://github.com/crcovar/response-codes/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crcovar/response-codes.git"
+  },
   "license": "MIT",
   "author": "Charles Covar",
   "type": "module",
