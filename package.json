@@ -1,5 +1,5 @@
 {
-  "name": "response-codes",
+  "name": "@crcovar/response-codes",
   "version": "1.0.0",
   "description": "Exportable list of HTTP response codes",
   "license": "MIT",
