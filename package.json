@@ -1,0 +1,12 @@
+{
+  "name": "response-codes",
+  "version": "1.0.0",
+  "description": "Exportable list of HTTP response codes",
+  "license": "MIT",
+  "author": "Charles Covar",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
